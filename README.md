@@ -249,7 +249,7 @@ npm run dev
 ⸻
 
 📁 2) Final Folder Structure
-
+```
 next-learning/
 │
 ├── pages/
@@ -267,7 +267,7 @@ next-learning/
 │   └── globals.css
 │
 └── tailwind.config.js
-
+```
 
 ⸻
 
