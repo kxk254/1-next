@@ -1,5 +1,8 @@
 # 1-next
 
+npx create-next-app@latest 1-next --use-npm --eslint --tailwing -app 
+
+
 Absolutely! We can make a **simple, self-contained Next.js learning package** with some example pages, API routes, and minimal setup so you can learn by playing with it. I’ll generate a ready-to-go project structure with code.
 
 ---
